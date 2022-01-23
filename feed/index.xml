@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Darul Jannah</title>
-	<atom:link href="https://https://muhammadhamza008.github.io/darul-jannah/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://muhammadhamza008.github.io/darul-jannah</link>
+	<atom:link href="https://muhammadhamza008.github.io/darul-jannah/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muhammadhamza008.github.io/darul-jannah</link>
 	<description></description>
 	<lastBuildDate>Sat, 22 Jan 2022 21:01:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/</link>
-					<comments>https://https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/#comments</comments>
+		<link>https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/</link>
+					<comments>https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 22 Jan 2022 21:01:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://muhammadhamza008.github.io/darul-jannah/?p=1</guid>
+		<guid isPermaLink="false">https://muhammadhamza008.github.io/darul-jannah/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muhammadhamza008.github.io/darul-jannah/2022/01/22/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
